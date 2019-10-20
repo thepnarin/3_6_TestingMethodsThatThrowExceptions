@@ -1,0 +1,6 @@
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\bin\Debug\3_6_TestingMethodsThatThrowExceptions.exe.config
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\bin\Debug\3_6_TestingMethodsThatThrowExceptions.exe
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\bin\Debug\3_6_TestingMethodsThatThrowExceptions.pdb
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\obj\Debug\3_6_TestingMethodsThatThrowExceptions.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\obj\Debug\3_6_TestingMethodsThatThrowExceptions.exe
+D:\[OOP] - Object Oriented Programming\Test\3_6_TestingMethodsThatThrowExceptions\3_6_TestingMethodsThatThrowExceptions\obj\Debug\3_6_TestingMethodsThatThrowExceptions.pdb
